@@ -7,7 +7,7 @@
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## ・plus
-![test](https://github.com/ando72000/robosys2022/blob/main/.github/workflows/test.yml)
+![test](https://github.com/ando72000/robosys2022/blob/main/.github/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
