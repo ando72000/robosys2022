@@ -3,7 +3,7 @@
   * ```plus``` 標準入力から読み込んだ数字を足す
 
 ## 【 plusコマンド 】
-![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg)
+[![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ando72000/robosys2022/actions/workflows/test.yml)
 
 標準入力から読み込んだ数字を足し、標準出力するコマンドです。
 
@@ -25,8 +25,7 @@ cd robosys2022
 ```
 
 ### ・必要なソフトウェア
-Phython  
-  * ver 3.7～3.10までテスト済です。
+Phython  (ver 3.7～3.10までテスト済)
 
 ### ・テスト環境
 Ubuntu22.04
