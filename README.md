@@ -1,18 +1,18 @@
 # robosys2022
 本リポジトリは、2022年度のロボットシステム学で扱ったソースコードをまとめています。
-	・plusコマンド：標準入力から読み込んだ数字を足す。
+  ・plusコマンド：標準入力から読み込んだ数字を足す。
 
-## ・plusコマンド
+## [ plusコマンド ]
 ![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
-### 必要なソフトウェア
-* Phython
-  * テスト済: 3.7～3.10
+### ・必要なソフトウェア
+ Phython
+  ver 3.7～3.10までテスト済です。
 
-### テスト環境
-* Ubuntu22.04
+### ・テスト環境
+Ubuntu22.04
 
 © 2022 Natsu Ando
 
