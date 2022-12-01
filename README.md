@@ -4,18 +4,18 @@
 
 ## ・インストール方法
 こちらのコマンドをコピーして入力するとインストールできます。
-```
+$```
 git clone https://github.com/ando72000/robosys2022.git
 ```
-```  
+$```  
 cd robosys2022
 ```  
 
 GitHubのアカウントを持っている方は下記の方法でも可能です。
-```
+$```
 git clone git@github.com:ando72000/robosys2022.git
 ```
-```
+$```
 cd robosys2022
 ```
 
@@ -27,13 +27,13 @@ cd robosys2022
 
 ###使用例
   * 実行
-```
+$```
 seq 5 | ./plus
 ```
 1～5までの数字を標準入力し、```plus```に読み込ませる。
 
   * 結果
-```
+$```
 15
 ```
 
