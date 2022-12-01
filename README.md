@@ -2,6 +2,9 @@
 本リポジトリは、2022年度のロボットシステム学で扱ったソースコードをまとめています。  
   * ```plus```  : 標準入力から読み込んだ数字を足す
 
+![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ando72000/robosys2022/actions/workflows/test.yml)  
+↑テストの結果が表示されるページに飛びます。
+
 ## ・インストール方法
 こちらのコマンドをコピーして入力するとインストールできます。  
 $
@@ -23,10 +26,7 @@ cd robosys2022
 ## 【 plusコマンド 】
 標準入力から読み込んだ数字を足し、標準出力するコマンドです。
 
-[![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ando72000/robosys2022/actions/workflows/test.yml)  
-↑テストの結果が表示されるページに飛びます。
-
-###使用例
+### 使用例
   * 実行
 ```
 seq 5 | ./plus
@@ -42,7 +42,7 @@ seq 5 | ./plus
 ### ・必要なソフトウェア
 Phython  (ver 3.7～3.10までテスト済)
 
-### ・テスト環境
+### ・動作環境
 Ubuntu22.04
 
 
