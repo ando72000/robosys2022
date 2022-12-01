@@ -2,7 +2,7 @@
 本リポジトリは、2022年度のロボットシステム学で扱ったソースコードをまとめています。  
   * ```plus```  : 標準入力から読み込んだ数字を足す
 
-[![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ando72000/robosys2022/actions/workflows/test.yml)  
+[![test](https://github.com/ando72000/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/ando72000/robosys2022/actions/workflows/test.yml)
 ↑テストの結果が表示されるページに飛びます。
 
 ## ・インストール方法
