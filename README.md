@@ -7,18 +7,18 @@
 ## ・インストール方法
 こちらのコマンドをコピーして入力するとインストールできます。  
 ```
-$git clone https://github.com/ando72000/robosys2022.git
+$ git clone https://github.com/ando72000/robosys2022.git
 ```
 ```  
-$cd robosys2022
+$ cd robosys2022
 ```  
 
 GitHubのアカウントを持っている方は下記の方法でも可能です。
 ```
-$git clone git@github.com:ando72000/robosys2022.git
+$ git clone git@github.com:ando72000/robosys2022.git
 ```
 ```
-$cd robosys2022
+$ cd robosys2022
 ```
 
 ## 【 plusコマンド 】
@@ -27,7 +27,7 @@ $cd robosys2022
 ### ・使用例
 
 ```
-$seq 5 | ./plus  
+$ seq 5 | ./plus  
 15
 ```
 1～5までの数字を標準入力し、```plus```に読み込ませると、全ての数字を足した結果が出力されます。
